@@ -1,7 +1,6 @@
 <template>
     <div>
         {{text}}
-        <el-button :loading="loading" type="primary" @click.native.prevent="aaa()">自己的api</el-button>
     </div>
 </template>
 
